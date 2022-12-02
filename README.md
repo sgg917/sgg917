@@ -5,7 +5,6 @@
   현재 공부중인 백엔드 신입 개발자 이슬기입니다.
   <br><br>
   <a href="mailto:sgadf2847@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://velog.io/@sgg917"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
   <a href="https://www.notion.so/9b87a6174ea34705ad02e2d407e25296"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"></a>
   <br>
   
